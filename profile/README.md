@@ -10,9 +10,9 @@ Jawyn Search Project é um projeto da disciplina de calculo III, que tem como ob
 
 # Contato
 #### Alunos:
-- Jáder Louis - @Prism411
-- Andrey Riça - @the-Andrey
-- Nicolas Sales - @realnfcs
-- Wyllgner França - @Wyllgner
+- Jáder Louis - jaderlouis@proton.me - @Prism411
+- Andrey Riça - andreyrica2112@gmail.com - @the-Andrey
+- Nicolas Sales - nicolascavalcante0101@gmail.com - @realnfcs
+- Wyllgner França - wyllgner_franca@hotmail.com - @Wyllgner
 #### Orientadores:
 Prof Dr. JOSIVAN RIBEIRO JUSTINO
